@@ -31,10 +31,5 @@ Project Workflow
 4. Model Training
 5. Threat Detection
 
-Repository Structure
 
-- "data/raw/" - Original dataset
-- "data/processed/" - Cleaned dataset
-- "notebooks/" - Google Colab notebooks
-- "reports/" - Project reports and documentation
 
